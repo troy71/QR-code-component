@@ -55,7 +55,7 @@ Learning how to center a div. Took sometime, but managed it
 
 ## Author
 
-- Frontend Mentor - [](https://www.frontendmentor.io/profile/troy71)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/troy71](https://www.frontendmentor.io/profile/troy71)
 
 
 

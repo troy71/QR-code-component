@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Ensure the body takes the full height of the viewport */
+}
+
+.card {
+  display: flex; /* Add this line to enable flexbox */
+  flex-direction: column; /* Align items vertically */
+  align-items: center; /* Center items horizontally */
+  justify-content: center; /* Center items vertically */
+  background-color: white;
+  max-width: 320px;
+  width: 100%;
+  border-radius: 20px;
+}
+
+img {
+  max-width: 288px;
+  width: 100%;
+  margin-top: 16px;
+  border-radius: 10px;
+}
+
+.write-up {
+  text-align: center;
+  padding: 16px 16px 40px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+p {
+  font-size: 15px;
+  padding: 7px 16px;
+}
